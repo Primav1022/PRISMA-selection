@@ -22,7 +22,7 @@ python 1_my_google_scholar.py "YOUR KEY WORD"  --year-start 2000 --year-end 2023
 - 可设置最大结果数
 - 自动保存为CSV文件
 
-### 2. 🌨️ 滚雪球检索 (snowballing.py)
+### 2. 🌨️ 滚雪球检索 (2_my_snow_balling.py)
 基于种子论文进行前向和后向引用检索
 ```bash
 python 2_my_snow_balling.py "YOUR PAPER TITLE" --max_results 30
@@ -31,7 +31,7 @@ python 2_my_snow_balling.py "YOUR PAPER TITLE" --max_results 30
 - 支持后向引用（引用了谁）
 - 自动去重和合并结果
 
-### 3. 🔄 查重处理 (duplicate_check.py)
+### 3. 🔄 查重处理 (3_Duplicate_Check.py)
 对检索结果进行查重和清理
 ```bash
 python 3_Duplicate_Check.py
@@ -40,7 +40,7 @@ python 3_Duplicate_Check.py
 - 自动合并重复条目
 - 生成清理后的CSV文件
 
-### 4. 🧠 智能分析 (intelligent_check.py)
+### 4. 🧠 智能分析 (4_Intelligent_check.py)
 对合并后的结果进行智能分析
 ```bash
 python 4_Intelligent_check.py
