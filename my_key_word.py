@@ -133,7 +133,7 @@ def get_word_frequencies(text_list: List[str], top_n: int = 30) -> List[Tuple[st
 
 def main():
     """主函数，加载数据，进行词频分析并输出结果。"""
-    csv_file_path = 'scholar_results.csv' # CSV文件路径
+    csv_file_path = 'output/scholar_results.csv'  # CSV文件路径
     column_name = 'title' # 需要分析的列名
     num_keywords = 30 # 希望得到的关键词数量
 

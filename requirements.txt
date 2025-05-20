@@ -1,7 +1,20 @@
-beautifulsoup4==4.12.0
-bs4==0.0.1
-matplotlib==3.7.1
-numpy==1.24.2
-pandas==2.0.0
-requests==2.28.2
-selenium==4.8.3
+# 数据处理
+pandas>=1.5.0
+numpy>=1.21.0
+
+# 网络爬虫
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+selenium>=4.0.0
+webdriver-manager>=3.8.0
+fake-useragent>=0.1.11
+
+# 文本处理
+nltk>=3.8.0
+scikit-learn>=1.0.0
+
+# 进度条
+tqdm>=4.64.0
+
+# 类型提示
+typing-extensions>=4.0.0

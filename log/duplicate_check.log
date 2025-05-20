@@ -1,0 +1,242 @@
+2025-05-20 17:39:10,941 - INFO - 
+开始处理文件: backward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:39:10,941 - INFO - 正在读取文件: backward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:39:10,946 - INFO - 未发现重复记录
+2025-05-20 17:39:10,947 - INFO - 
+开始处理文件: Design-by-Analogy.csv
+2025-05-20 17:39:10,947 - INFO - 正在读取文件: Design-by-Analogy.csv
+2025-05-20 17:39:10,948 - ERROR - 处理过程中出错: CSV文件中没有找到'title'列
+2025-05-20 17:39:10,949 - ERROR - 处理文件 Design-by-Analogy.csv 时出错: CSV文件中没有找到'title'列
+2025-05-20 17:39:10,949 - INFO - 
+开始处理文件: forward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:39:10,950 - INFO - 正在读取文件: forward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:39:10,952 - INFO - 未发现重复记录
+2025-05-20 17:39:10,952 - INFO - 
+开始处理文件: scholar_results.csv
+2025-05-20 17:39:10,953 - INFO - 正在读取文件: scholar_results.csv
+2025-05-20 17:39:10,956 - INFO - 发现 4 条重复记录
+2025-05-20 17:39:10,956 - INFO - 重复记录 - 标题: The meaning of “near” and “far”: the impact of structuring design databases and the effect of distance of analogy on design output
+2025-05-20 17:39:10,957 - INFO - 重复记录 - 标题: Design-by-Analogy: proposta para um modelo de ferramenta computacional de auxílio ao processo de design
+2025-05-20 17:39:10,957 - INFO - 重复记录 - 标题: Facilitatingdesign-by-analogy: Development of a complete functional vocabulary and functional vector approach to analogical search
+2025-05-20 17:39:10,957 - INFO - 重复记录 - 标题: [CITATION][C]DANE:Design by Analogyto Nature Engine
+2025-05-20 17:39:10,962 - INFO - 处理完成！
+2025-05-20 17:39:10,962 - INFO - 原始记录数: 200
+2025-05-20 17:39:10,962 - INFO - 删除的重复记录数: 4
+2025-05-20 17:39:10,963 - INFO - 保留的记录数: 196
+2025-05-20 17:39:10,963 - INFO - 结果已保存到: scholar_results_cleaned.csv
+2025-05-20 17:39:10,963 - INFO - 
+开始处理文件: scholar_results2.csv
+2025-05-20 17:39:10,963 - INFO - 正在读取文件: scholar_results2.csv
+2025-05-20 17:39:10,967 - INFO - 未发现重复记录
+2025-05-20 17:39:10,967 - INFO - 
+开始处理文件: scholar_results3.csv
+2025-05-20 17:39:10,967 - INFO - 正在读取文件: scholar_results3.csv
+2025-05-20 17:39:10,971 - INFO - 发现 1 条重复记录
+2025-05-20 17:39:10,971 - INFO - 重复记录 - 标题: Behaviorism, cognitivism, constructivism: Comparing critical features from an instructionaldesignperspective
+2025-05-20 17:39:10,975 - INFO - 处理完成！
+2025-05-20 17:39:10,975 - INFO - 原始记录数: 200
+2025-05-20 17:39:10,975 - INFO - 删除的重复记录数: 1
+2025-05-20 17:39:10,975 - INFO - 保留的记录数: 199
+2025-05-20 17:39:10,976 - INFO - 结果已保存到: scholar_results3_cleaned.csv
+2025-05-20 17:39:10,976 - INFO - 
+开始处理文件: scholar_results4.csv
+2025-05-20 17:39:10,976 - INFO - 正在读取文件: scholar_results4.csv
+2025-05-20 17:39:10,980 - INFO - 发现 4 条重复记录
+2025-05-20 17:39:10,980 - INFO - 重复记录 - 标题: [BOOK][B]Case-based reasoning
+2025-05-20 17:39:10,981 - INFO - 重复记录 - 标题: Case-based reasoning
+2025-05-20 17:39:10,981 - INFO - 重复记录 - 标题: An introduction tocase-based reasoning
+2025-05-20 17:39:10,981 - INFO - 重复记录 - 标题: Case-based reasoning
+2025-05-20 17:39:10,985 - INFO - 处理完成！
+2025-05-20 17:39:10,985 - INFO - 原始记录数: 200
+2025-05-20 17:39:10,985 - INFO - 删除的重复记录数: 4
+2025-05-20 17:39:10,985 - INFO - 保留的记录数: 196
+2025-05-20 17:39:10,986 - INFO - 结果已保存到: scholar_results4_cleaned.csv
+2025-05-20 17:39:10,986 - INFO - 
+开始跨文件去重处理...
+2025-05-20 17:39:10,986 - INFO - 正在读取清理后的文件: backward_snowball_results_Data-driven_design_b_cleaned.csv
+2025-05-20 17:39:10,987 - ERROR - 合并文件时出错: [Errno 2] No such file or directory: 'backward_snowball_results_Data-driven_design_b_cleaned.csv'
+2025-05-20 17:44:54,823 - INFO - 
+开始处理文件: backward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:44:54,823 - INFO - 正在读取文件: backward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:44:54,827 - INFO - 未发现重复记录
+2025-05-20 17:44:54,827 - INFO - 
+开始处理文件: Design-by-Analogy.csv
+2025-05-20 17:44:54,827 - INFO - 正在读取文件: Design-by-Analogy.csv
+2025-05-20 17:44:54,829 - ERROR - 处理过程中出错: CSV文件中没有找到'title'列
+2025-05-20 17:44:54,829 - ERROR - 处理文件 Design-by-Analogy.csv 时出错: CSV文件中没有找到'title'列
+2025-05-20 17:44:54,830 - INFO - 
+开始处理文件: forward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:44:54,830 - INFO - 正在读取文件: forward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:44:54,832 - INFO - 未发现重复记录
+2025-05-20 17:44:54,832 - INFO - 
+开始处理文件: scholar_results.csv
+2025-05-20 17:44:54,832 - INFO - 正在读取文件: scholar_results.csv
+2025-05-20 17:44:54,836 - INFO - 发现 4 条重复记录
+2025-05-20 17:44:54,836 - INFO - 重复记录 - 标题: The meaning of “near” and “far”: the impact of structuring design databases and the effect of distance of analogy on design output
+2025-05-20 17:44:54,836 - INFO - 重复记录 - 标题: Design-by-Analogy: proposta para um modelo de ferramenta computacional de auxílio ao processo de design
+2025-05-20 17:44:54,837 - INFO - 重复记录 - 标题: Facilitatingdesign-by-analogy: Development of a complete functional vocabulary and functional vector approach to analogical search
+2025-05-20 17:44:54,837 - INFO - 重复记录 - 标题: [CITATION][C]DANE:Design by Analogyto Nature Engine
+2025-05-20 17:44:54,841 - INFO - 处理完成！
+2025-05-20 17:44:54,842 - INFO - 原始记录数: 200
+2025-05-20 17:44:54,842 - INFO - 删除的重复记录数: 4
+2025-05-20 17:44:54,842 - INFO - 保留的记录数: 196
+2025-05-20 17:44:54,842 - INFO - 结果已保存到: scholar_results_cleaned.csv
+2025-05-20 17:44:54,842 - INFO - 
+开始处理文件: scholar_results2.csv
+2025-05-20 17:44:54,843 - INFO - 正在读取文件: scholar_results2.csv
+2025-05-20 17:44:54,846 - INFO - 未发现重复记录
+2025-05-20 17:44:54,846 - INFO - 
+开始处理文件: scholar_results3.csv
+2025-05-20 17:44:54,847 - INFO - 正在读取文件: scholar_results3.csv
+2025-05-20 17:44:54,850 - INFO - 发现 1 条重复记录
+2025-05-20 17:44:54,850 - INFO - 重复记录 - 标题: Behaviorism, cognitivism, constructivism: Comparing critical features from an instructionaldesignperspective
+2025-05-20 17:44:54,854 - INFO - 处理完成！
+2025-05-20 17:44:54,855 - INFO - 原始记录数: 200
+2025-05-20 17:44:54,855 - INFO - 删除的重复记录数: 1
+2025-05-20 17:44:54,855 - INFO - 保留的记录数: 199
+2025-05-20 17:44:54,855 - INFO - 结果已保存到: scholar_results3_cleaned.csv
+2025-05-20 17:44:54,856 - INFO - 
+开始处理文件: scholar_results4.csv
+2025-05-20 17:44:54,856 - INFO - 正在读取文件: scholar_results4.csv
+2025-05-20 17:44:54,860 - INFO - 发现 4 条重复记录
+2025-05-20 17:44:54,860 - INFO - 重复记录 - 标题: [BOOK][B]Case-based reasoning
+2025-05-20 17:44:54,860 - INFO - 重复记录 - 标题: Case-based reasoning
+2025-05-20 17:44:54,861 - INFO - 重复记录 - 标题: An introduction tocase-based reasoning
+2025-05-20 17:44:54,861 - INFO - 重复记录 - 标题: Case-based reasoning
+2025-05-20 17:44:54,864 - INFO - 处理完成！
+2025-05-20 17:44:54,865 - INFO - 原始记录数: 200
+2025-05-20 17:44:54,865 - INFO - 删除的重复记录数: 4
+2025-05-20 17:44:54,865 - INFO - 保留的记录数: 196
+2025-05-20 17:44:54,865 - INFO - 结果已保存到: scholar_results4_cleaned.csv
+2025-05-20 17:44:54,866 - INFO - 
+开始处理文件: scholar_results5.csv
+2025-05-20 17:44:54,866 - INFO - 正在读取文件: scholar_results5.csv
+2025-05-20 17:44:54,870 - INFO - 未发现重复记录
+2025-05-20 17:44:54,870 - INFO - 
+开始跨文件去重处理...
+2025-05-20 17:44:54,870 - INFO - 正在读取清理后的文件: backward_snowball_results_Data-driven_design_b_cleaned.csv
+2025-05-20 17:44:54,871 - ERROR - 合并文件时出错: [Errno 2] No such file or directory: 'backward_snowball_results_Data-driven_design_b_cleaned.csv'
+2025-05-20 17:47:14,386 - INFO - 
+开始处理文件: backward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:47:14,386 - INFO - 正在读取文件: backward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:47:14,390 - INFO - 未发现重复记录
+2025-05-20 17:47:14,392 - INFO - 处理完成！
+2025-05-20 17:47:14,392 - INFO - 原始记录数: 30
+2025-05-20 17:47:14,393 - INFO - 删除的重复记录数: 0
+2025-05-20 17:47:14,393 - INFO - 保留的记录数: 30
+2025-05-20 17:47:14,393 - INFO - 结果已保存到: backward_snowball_results_Data-driven_design_b_cleaned.csv
+2025-05-20 17:47:14,393 - INFO - 
+开始处理文件: Design-by-Analogy.csv
+2025-05-20 17:47:14,393 - INFO - 正在读取文件: Design-by-Analogy.csv
+2025-05-20 17:47:14,395 - ERROR - 处理过程中出错: CSV文件中没有找到'title'列
+2025-05-20 17:47:14,396 - ERROR - 处理文件 Design-by-Analogy.csv 时出错: CSV文件中没有找到'title'列
+2025-05-20 17:47:14,396 - INFO - 
+开始处理文件: forward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:47:14,396 - INFO - 正在读取文件: forward_snowball_results_Data-driven_design_b.csv
+2025-05-20 17:47:14,398 - INFO - 未发现重复记录
+2025-05-20 17:47:14,400 - INFO - 处理完成！
+2025-05-20 17:47:14,401 - INFO - 原始记录数: 30
+2025-05-20 17:47:14,401 - INFO - 删除的重复记录数: 0
+2025-05-20 17:47:14,401 - INFO - 保留的记录数: 30
+2025-05-20 17:47:14,401 - INFO - 结果已保存到: forward_snowball_results_Data-driven_design_b_cleaned.csv
+2025-05-20 17:47:14,402 - INFO - 
+开始处理文件: scholar_results.csv
+2025-05-20 17:47:14,402 - INFO - 正在读取文件: scholar_results.csv
+2025-05-20 17:47:14,406 - INFO - 发现 4 条重复记录
+2025-05-20 17:47:14,406 - INFO - 重复记录 - 标题: The meaning of “near” and “far”: the impact of structuring design databases and the effect of distance of analogy on design output
+2025-05-20 17:47:14,406 - INFO - 重复记录 - 标题: Design-by-Analogy: proposta para um modelo de ferramenta computacional de auxílio ao processo de design
+2025-05-20 17:47:14,407 - INFO - 重复记录 - 标题: Facilitatingdesign-by-analogy: Development of a complete functional vocabulary and functional vector approach to analogical search
+2025-05-20 17:47:14,407 - INFO - 重复记录 - 标题: [CITATION][C]DANE:Design by Analogyto Nature Engine
+2025-05-20 17:47:14,410 - INFO - 处理完成！
+2025-05-20 17:47:14,411 - INFO - 原始记录数: 200
+2025-05-20 17:47:14,411 - INFO - 删除的重复记录数: 4
+2025-05-20 17:47:14,411 - INFO - 保留的记录数: 196
+2025-05-20 17:47:14,411 - INFO - 结果已保存到: scholar_results_cleaned.csv
+2025-05-20 17:47:14,412 - INFO - 
+开始处理文件: scholar_results2.csv
+2025-05-20 17:47:14,412 - INFO - 正在读取文件: scholar_results2.csv
+2025-05-20 17:47:14,415 - INFO - 未发现重复记录
+2025-05-20 17:47:14,418 - INFO - 处理完成！
+2025-05-20 17:47:14,418 - INFO - 原始记录数: 200
+2025-05-20 17:47:14,419 - INFO - 删除的重复记录数: 0
+2025-05-20 17:47:14,419 - INFO - 保留的记录数: 200
+2025-05-20 17:47:14,419 - INFO - 结果已保存到: scholar_results2_cleaned.csv
+2025-05-20 17:47:14,419 - INFO - 
+开始处理文件: scholar_results3.csv
+2025-05-20 17:47:14,420 - INFO - 正在读取文件: scholar_results3.csv
+2025-05-20 17:47:14,423 - INFO - 发现 1 条重复记录
+2025-05-20 17:47:14,423 - INFO - 重复记录 - 标题: Behaviorism, cognitivism, constructivism: Comparing critical features from an instructionaldesignperspective
+2025-05-20 17:47:14,427 - INFO - 处理完成！
+2025-05-20 17:47:14,427 - INFO - 原始记录数: 200
+2025-05-20 17:47:14,427 - INFO - 删除的重复记录数: 1
+2025-05-20 17:47:14,427 - INFO - 保留的记录数: 199
+2025-05-20 17:47:14,428 - INFO - 结果已保存到: scholar_results3_cleaned.csv
+2025-05-20 17:47:14,428 - INFO - 
+开始处理文件: scholar_results4.csv
+2025-05-20 17:47:14,428 - INFO - 正在读取文件: scholar_results4.csv
+2025-05-20 17:47:14,431 - INFO - 发现 4 条重复记录
+2025-05-20 17:47:14,432 - INFO - 重复记录 - 标题: [BOOK][B]Case-based reasoning
+2025-05-20 17:47:14,432 - INFO - 重复记录 - 标题: Case-based reasoning
+2025-05-20 17:47:14,432 - INFO - 重复记录 - 标题: An introduction tocase-based reasoning
+2025-05-20 17:47:14,433 - INFO - 重复记录 - 标题: Case-based reasoning
+2025-05-20 17:47:14,437 - INFO - 处理完成！
+2025-05-20 17:47:14,437 - INFO - 原始记录数: 200
+2025-05-20 17:47:14,438 - INFO - 删除的重复记录数: 4
+2025-05-20 17:47:14,438 - INFO - 保留的记录数: 196
+2025-05-20 17:47:14,438 - INFO - 结果已保存到: scholar_results4_cleaned.csv
+2025-05-20 17:47:14,439 - INFO - 
+开始处理文件: scholar_results5.csv
+2025-05-20 17:47:14,439 - INFO - 正在读取文件: scholar_results5.csv
+2025-05-20 17:47:14,442 - INFO - 未发现重复记录
+2025-05-20 17:47:14,446 - INFO - 处理完成！
+2025-05-20 17:47:14,446 - INFO - 原始记录数: 200
+2025-05-20 17:47:14,446 - INFO - 删除的重复记录数: 0
+2025-05-20 17:47:14,446 - INFO - 保留的记录数: 200
+2025-05-20 17:47:14,447 - INFO - 结果已保存到: scholar_results5_cleaned.csv
+2025-05-20 17:47:14,447 - INFO - 
+开始跨文件去重处理...
+2025-05-20 17:47:14,447 - INFO - 正在读取清理后的文件: backward_snowball_results_Data-driven_design_b_cleaned.csv
+2025-05-20 17:47:14,450 - INFO - 正在读取清理后的文件: forward_snowball_results_Data-driven_design_b_cleaned.csv
+2025-05-20 17:47:14,452 - INFO - 正在读取清理后的文件: scholar_results_cleaned.csv
+2025-05-20 17:47:14,455 - INFO - 正在读取清理后的文件: scholar_results2_cleaned.csv
+2025-05-20 17:47:14,457 - INFO - 正在读取清理后的文件: scholar_results3_cleaned.csv
+2025-05-20 17:47:14,461 - INFO - 正在读取清理后的文件: scholar_results4_cleaned.csv
+2025-05-20 17:47:14,464 - INFO - 正在读取清理后的文件: scholar_results5_cleaned.csv
+2025-05-20 17:47:14,469 - INFO - 
+发现跨文件重复记录 30 条
+2025-05-20 17:47:14,469 - INFO - 跨文件重复 - 标题: AskNatureNet: A divergent thinking tool based on bio-inspired design knowledge
+2025-05-20 17:47:14,470 - INFO - 跨文件重复 - 标题: Biologically inspired design concept generation using generative pre-trained transformers
+2025-05-20 17:47:14,470 - INFO - 跨文件重复 - 标题: Design-by-analogy: experimental evaluation of a functional analogy search methodology for concept generation improvement
+2025-05-20 17:47:14,470 - INFO - 跨文件重复 - 标题: The meaning of “near” and “far”: the impact of structuring design databases and the effect of distance of analogy on design output
+2025-05-20 17:47:14,471 - INFO - 跨文件重复 - 标题: Modality and representation in analogy
+2025-05-20 17:47:14,471 - INFO - 跨文件重复 - 标题: Creative analogy use in a heterogeneous design team: The pervasive role of background domain knowledge
+2025-05-20 17:47:14,471 - INFO - 跨文件重复 - 标题: On the benefits and pitfalls of analogies for innovative design: Ideation performance based on analogical distance, commonness, and modality of examples
+2025-05-20 17:47:14,472 - INFO - 跨文件重复 - 标题: Evaluating the impact of Idea-Inspire 4.0 on analogical transfer of concepts
+2025-05-20 17:47:14,472 - INFO - 跨文件重复 - 标题: A computational tool for creative idea generation based on analogical reasoning and ontology
+2025-05-20 17:47:14,472 - INFO - 跨文件重复 - 标题: A knowledge-based ideation approach for bio-inspired design
+2025-05-20 17:47:14,474 - INFO - 跨文件重复 - 标题: Discovering structure in design databases through functional and surface based mapping
+2025-05-20 17:47:14,474 - INFO - 跨文件重复 - 标题: Biologically inspired design concept generation using generative pre-trained transformers
+2025-05-20 17:47:14,474 - INFO - 跨文件重复 - 标题: The impact of designers' goals ondesign-by-analogy
+2025-05-20 17:47:14,474 - INFO - 跨文件重复 - 标题: [BOOK][B]Mental leaps:Analogyin creative thought
+2025-05-20 17:47:14,474 - INFO - 跨文件重复 - 标题: [BOOK][B]Mental leaps:Analogyin creative thought
+2025-05-20 17:47:14,474 - INFO - 跨文件重复 - 标题: Structure mapping inanalogyand similarity.
+2025-05-20 17:47:14,475 - INFO - 跨文件重复 - 标题: Imageanalogies
+2025-05-20 17:47:14,475 - INFO - 跨文件重复 - 标题: Relational inductive biases, deep learning, and graph networks
+2025-05-20 17:47:14,475 - INFO - 跨文件重复 - 标题: Heterotic and type I string dynamics from eleven dimensions
+2025-05-20 17:47:14,476 - INFO - 跨文件重复 - 标题: [BOOK][B]Thinking in time: The uses of history for decision makers
+2025-05-20 17:47:14,476 - INFO - 跨文件重复 - 标题: On the origin of gravity and the laws of Newton
+2025-05-20 17:47:14,476 - INFO - 跨文件重复 - 标题: [BOOK][B]The way we think: Conceptual blending and the mind's hidden complexities
+2025-05-20 17:47:14,476 - INFO - 跨文件重复 - 标题: Organizational memory
+2025-05-20 17:47:14,477 - INFO - 跨文件重复 - 标题: [BOOK][B]Political theory and international relations
+2025-05-20 17:47:14,477 - INFO - 跨文件重复 - 标题: [BOOK][B]Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning
+2025-05-20 17:47:14,477 - INFO - 跨文件重复 - 标题: [BOOK][B]Towards a transformation of philosophy
+2025-05-20 17:47:14,478 - INFO - 跨文件重复 - 标题: [BOOK][B]Science and method
+2025-05-20 17:47:14,478 - INFO - 跨文件重复 - 标题: [BOOK][B]The rhetoric of economics
+2025-05-20 17:47:14,478 - INFO - 跨文件重复 - 标题: [BOOK][B]Measure and category: A survey of theanalogiesbetween topological and measure spaces
+2025-05-20 17:47:14,478 - INFO - 跨文件重复 - 标题: When and where do we apply what we learn?: A taxonomy for far transfer.
+2025-05-20 17:47:14,491 - INFO - 
+跨文件去重处理完成！
+2025-05-20 17:47:14,491 - INFO - 合并后的总记录数: 1051
+2025-05-20 17:47:14,491 - INFO - 删除的跨文件重复记录数: 30
+2025-05-20 17:47:14,492 - INFO - 最终保留的记录数: 1021
+2025-05-20 17:47:14,492 - INFO - 最终结果已保存到: merged_cleaned_results.csv
