@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚 PRISMA Selection Code
 
 这是一个用于自动化文献检索和筛选的工具集，基于Google Scholar进行论文爬取、滚雪球检索、查重和智能分析。
@@ -14,7 +13,7 @@ pip install -r requirements.txt
 
 ## 📋 功能模块
 
-### 1. 📚 论文检索 (scholar_crawler.py)
+### 1. 📚 论文检索 (1_scholar_crawler.py)
 从Google Scholar爬取论文信息
 ```bash
 python scholar_crawler.py "your search query" --max_results 100
@@ -96,6 +95,4 @@ python intelligent_check.py
 
 3. **目前案例**：
    - 都是可以删除的，作者自己systematic review的残余~~
-=======
-### PRISMA selection code
->>>>>>> f1fc84c98ade77a6951efd0f55b5ead6c9c41879
+
