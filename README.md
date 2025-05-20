@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ### 1. 📚 论文检索 (1_scholar_crawler.py)
 从Google Scholar爬取论文信息
 ```bash
-python scholar_crawler.py "your search query" --max_results 100
+python 1_my_google_scholar.py "YOUR KEY WORD"  --year-start 2000 --year-end 2023 --max-results 200 --format csv
 ```
 - 支持关键词搜索
 - 可设置最大结果数
@@ -25,7 +25,7 @@ python scholar_crawler.py "your search query" --max_results 100
 ### 2. 🌨️ 滚雪球检索 (snowballing.py)
 基于种子论文进行前向和后向引用检索
 ```bash
-python snowballing.py "paper title" --max_results 30
+python 2_my_snow_balling.py "YOUR PAPER TITLE" --max_results 30
 ```
 - 支持前向引用（被谁引用）
 - 支持后向引用（引用了谁）
@@ -34,7 +34,7 @@ python snowballing.py "paper title" --max_results 30
 ### 3. 🔄 查重处理 (duplicate_check.py)
 对检索结果进行查重和清理
 ```bash
-python duplicate_check.py
+python 3_Duplicate_Check.py
 ```
 - 基于标题相似度
 - 自动合并重复条目
@@ -43,7 +43,7 @@ python duplicate_check.py
 ### 4. 🧠 智能分析 (intelligent_check.py)
 对合并后的结果进行智能分析
 ```bash
-python intelligent_check.py
+python 4_Intelligent_check.py
 ```
 - 基于内容相似度
 - 自动分类和标记
@@ -77,10 +77,10 @@ python intelligent_check.py
 
 ## 🔄 工作流程
 
-1. 使用 `1_scholar_crawler.py` 获取初始论文列表
-2. 使用 `2_snowballing.py` 扩展检索范围
-3. 使用 `3_duplicate_check.py` 清理重复数据
-4. 使用 `4_intelligent_check.py` 进行智能分析
+1. 使用 `1_my_google_scholar.py` 获取初始论文列表
+2. 使用 `2_my_snow_balling.py` 扩展检索范围
+3. 使用 `3_Duplicate_Check.py` 清理重复数据
+4. 使用 `4_Intelligent_check.py` 进行智能分析
 
 
 ## 🐛 常见问题
