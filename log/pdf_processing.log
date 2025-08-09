@@ -1,0 +1,11 @@
+2025-08-09 21:49:19,245 - INFO - 正在加载模型: microsoft/Phi-3-mini-4k-instruct
+2025-08-09 21:49:19,245 - INFO - 使用设备: cuda
+2025-08-09 21:49:24,258 - WARNING - 第 1 次尝试失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /microsoft/Phi-3-mini-4k-instruct/resolve/main/tokenizer_config.json (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))"), '(Request ID: 26a63ba5-0f72-4dc6-b836-087d2d737813)')
+2025-08-09 21:49:24,258 - INFO - 清理可能损坏的缓存文件...
+2025-08-09 21:49:32,035 - WARNING - 第 2 次尝试失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /microsoft/Phi-3-mini-4k-instruct/resolve/main/tokenizer_config.json (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))"), '(Request ID: 7d135c3d-ffe9-4d84-9fdc-8310f2c70ce1)')
+2025-08-09 21:49:39,076 - WARNING - 第 3 次尝试失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /microsoft/Phi-3-mini-4k-instruct/resolve/main/tokenizer_config.json (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))"), '(Request ID: 7f413868-5d15-4b8d-95fc-21cbef30aef5)')
+2025-08-09 21:49:39,076 - ERROR - 模型加载失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /microsoft/Phi-3-mini-4k-instruct/resolve/main/tokenizer_config.json (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))"), '(Request ID: 7f413868-5d15-4b8d-95fc-21cbef30aef5)')
+2025-08-09 21:49:39,076 - INFO - 建议解决方案:
+2025-08-09 21:49:39,076 - INFO - 1. 检查网络连接
+2025-08-09 21:49:39,077 - INFO - 2. 设置 HuggingFace 镜像: export HF_ENDPOINT=https://hf-mirror.com
+2025-08-09 21:49:39,077 - INFO - 3. 手动下载模型到本地
